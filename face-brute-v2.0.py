@@ -89,7 +89,7 @@ try:
             print("Wordlist salva como \033[34mwordlist-basica.txt\033[m")
             print("Voltando ao menú principal...")
             time.sleep(6)
-            os.system("python2 fb.py")
+            os.system("python2 face-brute-v2.0.py")
             
             
         if opGerador == 2:
